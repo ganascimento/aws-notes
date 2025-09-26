@@ -11,72 +11,33 @@ Projeto de estudo sobre os principais serviços da AWS, organizado por tópicos 
 
 ## 📈 Progresso dos Estudos
 
-- [x] AppFlow
-- [ ] SNS
-- [ ] SQS
-
 ### 🔗 Application Integration
 - [x] AppFlow
 - [ ] SNS
 - [ ] SQS
-- [x] AppFlow
-- [ ] SNS
-- [ ] SQS
-
-- [x] EC2
-- [ ] Elastic Beanstalk
-- [ ] Lambda
 
 ### 🖥️ Computing
 - [x] EC2
 - [ ] Elastic Beanstalk
 - [ ] Lambda
-- [x] EC2
-- [ ] Elastic Beanstalk
-- [ ] Lambda
-
-- [ ] Aurora
-- [ ] DynamoDB
-- [ ] RDS
 
 ### 🗄️ Database
 - [ ] Aurora
 - [ ] DynamoDB
 - [ ] RDS
-- [ ] Aurora
-- [ ] DynamoDB
-- [ ] RDS
-
-- [x] Amplify
 
 ### 🛠️ Development
 - [x] Amplify
-- [x] Amplify
-
-- [ ] Cognito
-- [x] IAM
-- [ ] KMS
 
 ### 🔒 Security
 - [ ] Cognito
 - [x] IAM
 - [ ] KMS
-- [ ] Cognito
-- [x] IAM
-- [ ] KMS
-
-- [x] EBS e EFS
-- [x] S3
 
 ### 🗂️ Storage
 - [x] EBS e EFS
 - [x] S3
-- [x] EBS e EFS
-- [x] S3
-
-- [ ] VPC
 
 ### 🌐 VPC
-- [ ] VPC
 - [ ] VPC
 
