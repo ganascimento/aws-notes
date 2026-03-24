@@ -13,13 +13,15 @@ Projeto de estudo sobre os principais serviços da AWS, organizado por tópicos 
 
 ### 🔗 Application Integration
 - [x] AppFlow
-- [ ] SNS
-- [ ] SQS
+- [x] SNS
+- [x] SQS
+- [x] SES
 
 ### 🖥️ Computing
 - [x] EC2
 - [ ] Elastic Beanstalk
-- [ ] Lambda
+- [x] Lambda
+- [ ] Fargate
 
 ### 🗄️ Database
 - [ ] Aurora
